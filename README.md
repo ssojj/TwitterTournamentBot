@@ -1,2 +1,2 @@
 # TwitterTournamentBot
-Runs poll tournaments on twitter
+Runs poll tournaments on twitter, well hopefully
